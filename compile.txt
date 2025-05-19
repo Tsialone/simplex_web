@@ -1,0 +1,1 @@
+mvn clean package;cp target\*.war 'C:\apache-tomcat-9.0.105\webapps'

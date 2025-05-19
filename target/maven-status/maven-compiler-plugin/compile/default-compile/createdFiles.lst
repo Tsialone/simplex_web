@@ -1,0 +1,7 @@
+com\example\model\Systeme.class
+com\example\model\Variable.class
+com\example\controller\TableauController.class
+com\example\model\Ligne.class
+com\example\model\Tableau.class
+com\example\model\Equation.class
+com\example\model\Fraction.class
