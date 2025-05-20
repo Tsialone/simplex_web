@@ -78,9 +78,9 @@ public class Variable {
     }
 
     public static Variable getVarByString(String var) throws Exception {
-        if (var.length() > 9) {
-            throw new Exception("On ne peut pas avoir une variable de plus de 9 caracteres " + var);
-        }
+        // if (var.length() > 9) {
+        //     throw new Exception("On ne peut pas avoir une variable de plus de 9 caracteres " + var);
+        // }
         if (var.length() < 5   ) {
             throw new Exception("On ne peut pas avoir une variable de moins de 3 caracteres " + var);
         }
